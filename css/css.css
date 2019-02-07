@@ -1,0 +1,152 @@
+* {
+    color: black;
+}
+
+body {
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+    background-color: rgb(206, 194, 180);
+}
+
+/* --- tags --- */
+
+h2{
+    margin: 0;
+}
+
+label {
+    margin: 0;
+    padding: 0px;
+    height: 20px;
+    color: black;
+}
+
+input {
+    width: 100%;
+    margin: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: solid rgb(142, 142, 142) 1px;
+}
+
+input[type='button']{
+    width: 175px;
+    min-height: 36px;
+    background-color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #2369AA;
+    color: white;
+    border: none;
+}
+
+.input-error{
+    border: solid #EE5452 1px;
+}
+
+input[type='text'][type='number']:hover{
+    border: solid #2369AA 2px;
+}
+
+input[type='button']:hover {
+    background-color: rgb(62, 119, 172);
+    cursor: pointer;
+}
+
+div {
+    width: 100%;
+}
+
+select {
+    margin: 0;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100%;
+    border: solid rgb(142, 142, 142) 1px;
+}
+
+/* --- classes --- */
+.container {
+    width: 1024px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.active {
+   color: #2369AA;
+}
+
+.row {
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    min-height: 15px;
+}
+
+.column-1 {
+    width: 25%;
+    float: left;
+}
+
+.column-1 input {
+    width: 100%;
+}
+
+.column-1 select {
+    width: 100%;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+}
+
+.column-3 {
+    width: 100%;
+    float: left;
+}
+
+.ingredient-form {
+    width: 100%;
+}
+
+.ingredients-container {
+    margin-bottom: 20px;
+}
+
+.recipes-list {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.list-item {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.recipes-list .list-item {
+    margin-left: 15px;
+    /* list-style: none; */
+}
+
+.recipes-list .list-item:hover{
+    color: rgb(0, 89, 255);
+    cursor: pointer;
+}
+
+.my-ingredients-container{
+    margin-top: 20px;
+}
+
+.recipe-details {
+    display: none;
+}

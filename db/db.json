@@ -1,0 +1,207 @@
+{ 
+   "recipes": [
+      {
+         "id": 0,
+         "name": "Bolo simples",
+         "description": "Bater os ingredients e levar aforno",
+         "ingredients": [
+            {
+               "name": "ovos",
+               "amount": "2",
+               "unit": "unidade"
+            },
+            {
+               "name": "farinha",
+               "amount": "1",
+               "unit": "Kg"
+            }
+         ] 
+      },
+      {
+         "id": 1,
+         "name": "Bolo de laranja",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "ovos",
+               "amount": "2",
+               "unit": "unidade"
+            },
+            {
+               "name": "farinha",
+               "amount": "1",
+               "unit": "Kg"
+            },
+            {
+               "name": "laranja",
+               "amount": "3",
+               "unit": "unidade"
+            }
+         ]
+      },
+      {
+         "id": 2,
+         "name": "Bolo de carne",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "carne",
+               "amount": "500",
+               "unit": "g"
+            },
+            {
+               "name": "farinha",
+               "amount": "1",
+               "unit": "Kg"
+            },
+            {
+               "name": "bacon",
+               "amount": "200",
+               "unit": "g"
+            }
+         ]
+      },
+      {
+         "id": 3,
+         "name": "Pastel",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "ovos",
+               "amount": "2",
+               "unit": "unidade"
+            },
+            {
+               "name": "farinha",
+               "amount": "1",
+               "unit": "Kg"
+            },
+            {
+               "name": "agua",
+               "amount": "1",
+               "unit": "xicara"
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "name": "Bolo de maça",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "ovos",
+               "amount": "2",
+               "unit": "unidade"
+            },
+            {
+               "name": "farinha",
+               "amount": "1",
+               "unit": "Kg"
+            },
+            {
+               "name": "maça",
+               "amount": "3",
+               "unit": "unidade"
+            }
+         ]
+      },
+      {
+         "id": 5,
+         "name": "Cookies de Banana e Aveia",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "banana",
+               "amount": "2",
+               "unit": "unidade"
+            },
+            {
+               "name": "aveia",
+               "amount": "1",
+               "unit": "xicara"
+            }
+         ]
+      },
+      {
+         "id": 6,
+         "name": "Waffle",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "trigo",
+               "amount": "1",
+               "unit": "copo"
+            },
+            {
+               "name": "fermento",
+               "amount": "1",
+               "unit": "colher"
+            },
+            {
+               "name": "leite",
+               "amount": "1",
+               "unit": "copo"
+            }
+         ]
+      },
+      {
+         "id": 7,
+         "name": "French Toast",
+         "description": "Bata os ingredients e leve ao forno por 1 hora ....",
+         "ingredients": [
+            {
+               "name": "ovo",
+               "amount": "1",
+               "unit": "unidade"
+            },
+            {
+               "name": "leite",
+               "amount": "1",
+               "unit": "xicara"
+            },
+            {
+               "name": "pao",
+               "amount": "1",
+               "unit": "unidade"
+            }
+         ]
+      },
+      {
+         "id": 8,
+         "name": "Barreado",
+         "ingredients": [
+            {
+               "name": "cebola",
+               "amount": "200",
+               "unit": "g"
+            },
+            {
+               "name": "alho",
+               "amount": "3",
+               "unit": "unidade"
+            },
+            {
+               "name": "salsicha",
+               "amount": "1",
+               "unit": "xicara"
+            }
+         ]
+      },
+      {
+         "id": 9,
+         "name": "Omelete",
+         "ingredients": [
+            {
+               "name": "ovos",
+               "amount": "6",
+               "unit": "unidade"
+            },
+            {
+               "name": "leite",
+               "amount": "2",
+               "unit": "colher"
+            }
+         ]
+      }
+   ]
+}
